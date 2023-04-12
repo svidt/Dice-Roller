@@ -11,8 +11,8 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "scribble")
+                .foregroundColor(.yellow)
                 .imageScale(.large)
-                .foregroundColor(.accentColor)
                 .padding(20)
             Text("Hello, GitHub!")
         }
