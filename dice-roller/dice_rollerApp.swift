@@ -2,7 +2,7 @@
 //  dice_rollerApp.swift
 //  dice-roller
 //
-//  Created by Kristian Emil Hansen Svidt on 12/04/2023.
+//  Created by Svidt on 12/04/2023.
 //
 
 import SwiftUI
